@@ -1,0 +1,13 @@
+# Una etiqueta por línea, en el MISMO orden que las salidas del modelo ONNX
+# (el orden de clases usado en el notebook). Si el modelo agrega clases como
+# _unknown_ o _silence_, inclúyalas aquí en su posición.
+yes
+no
+up
+down
+left
+right
+on
+off
+stop
+go
